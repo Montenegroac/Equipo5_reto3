@@ -19,5 +19,5 @@ A continación se puede evidenciar el cómo quedó la interfaz completamente fun
 
 Además de la evidencia de la autenticación y de BD utilizados en firebase
 
-<img src="Reto3_imag1.gif" width="600" />
-<img src="Reto3_imag2.gif" width="600" />
+<img src="Reto3_imag1.jpeg" width="600" />
+<img src="Reto3_imag2.jpeg" width="600" />
